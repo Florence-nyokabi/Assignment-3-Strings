@@ -66,6 +66,16 @@ fun checkName(person:String){
     }
     else
     {
-      println("I don' know who that is!")
+      println("I don't know who that is!")
     }
 }
+/*
+Output:
+Air
+Hi, my name is Florence and I am 19 years old.
+Hi, my name is Ian and I am 6 years old.
+10
+8
+I don't know who that is!
+That's me!
+ */
