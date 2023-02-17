@@ -60,7 +60,7 @@ name is passed to it, otherwise it prints out “I don’t know who that is”
  */
 
 fun checkName(person:String){
-    var firstName = "Florence"
+    val firstName = "Florence"
     if(person.equals(firstName)){
         println("That's me!")
     }
